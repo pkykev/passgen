@@ -14,4 +14,4 @@ SO THAT I can create a strong password that provides greater security
 
 ## Screenshot
 
-![App Screenshot](./develop/passgen.png)
+![App Screenshot](./assets/passgen.png)
